@@ -1,0 +1,34 @@
+body{
+    background-color: white;
+    
+}
+nav{
+    height: 5px;
+    display: flex; 
+    justify-content: flex-end;
+    flex-direction: row; 
+    
+}
+.title{
+    display: flex;
+    align-self: flex-start;
+    height: 20px;
+    color: black;
+}
+.nav-link  {
+    display: flex;
+    color: rgb(133, 130, 130);
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-right: 20px; 
+}
+p{
+    margin-top: 25px;
+}
+hr{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+a {
+    color: #0074de;
+}
